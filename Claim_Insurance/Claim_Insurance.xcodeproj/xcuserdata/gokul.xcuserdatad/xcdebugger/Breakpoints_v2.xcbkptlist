@@ -1,0 +1,245 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "D5CC23A6-C22A-48CA-ACE4-C8D123793FBA"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8F54767-7F4C-4195-9A9D-3A46F6CF7D71"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Claim_Insurance/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "classifyImage(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A8F54767-7F4C-4195-9A9D-3A46F6CF7D71 - b5a3935847c94028"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Claim_Insurance.ContentView.classifyImage(__C.UIImage) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Claim_Insurance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gokul/Swift/Claim_Insurance/Claim_Insurance/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "1036">
+               </Location>
+               <Location
+                  uuid = "A8F54767-7F4C-4195-9A9D-3A46F6CF7D71 - b5a3935847c94028"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Claim_Insurance.ContentView.classifyImage(__C.UIImage) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Claim_Insurance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gokul/Swift/Claim_Insurance/Claim_Insurance/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "114"
+                  endingLineNumber = "114"
+                  offsetFromSymbolStart = "1072">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "88F8D2DE-5768-4157-8D36-3AA02D90F95B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Claim_Insurance/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "113"
+            endingLineNumber = "113"
+            landmarkName = "classifyImage(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "88F8D2DE-5768-4157-8D36-3AA02D90F95B - b5a3935847c94009"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Claim_Insurance.ContentView.classifyImage(__C.UIImage) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Claim_Insurance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gokul/Swift/Claim_Insurance/Claim_Insurance/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "1140">
+               </Location>
+               <Location
+                  uuid = "88F8D2DE-5768-4157-8D36-3AA02D90F95B - b5a3935847c94009"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Claim_Insurance.ContentView.classifyImage(__C.UIImage) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Claim_Insurance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gokul/Swift/Claim_Insurance/Claim_Insurance/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "800">
+               </Location>
+               <Location
+                  uuid = "88F8D2DE-5768-4157-8D36-3AA02D90F95B - b5a3935847c94009"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Claim_Insurance.ContentView.classifyImage(__C.UIImage) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Claim_Insurance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gokul/Swift/Claim_Insurance/Claim_Insurance/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "113"
+                  endingLineNumber = "113"
+                  offsetFromSymbolStart = "804">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "DA84E76E-9101-4227-B531-A7946E31401C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Claim_Insurance/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "94"
+            endingLineNumber = "94"
+            landmarkName = "classifyImage(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "DA84E76E-9101-4227-B531-A7946E31401C - b5a3935847c945b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Claim_Insurance.ContentView.classifyImage(__C.UIImage) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Claim_Insurance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gokul/Swift/Claim_Insurance/Claim_Insurance/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "992">
+               </Location>
+               <Location
+                  uuid = "DA84E76E-9101-4227-B531-A7946E31401C - b5a3935847c945b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Claim_Insurance.ContentView.classifyImage(__C.UIImage) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Claim_Insurance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gokul/Swift/Claim_Insurance/Claim_Insurance/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "268">
+               </Location>
+               <Location
+                  uuid = "DA84E76E-9101-4227-B531-A7946E31401C - b5a3935847c945b4"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Claim_Insurance.ContentView.classifyImage(__C.UIImage) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Claim_Insurance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gokul/Swift/Claim_Insurance/Claim_Insurance/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "94"
+                  endingLineNumber = "94"
+                  offsetFromSymbolStart = "272">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "19E93B2E-308A-4D7B-8FEF-19C2AA5D5C92"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "Claim_Insurance/ContentView.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "96"
+            endingLineNumber = "96"
+            landmarkName = "classifyImage(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "19E93B2E-308A-4D7B-8FEF-19C2AA5D5C92 - b5a3935847c942df"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Claim_Insurance.ContentView.classifyImage(__C.UIImage) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Claim_Insurance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gokul/Swift/Claim_Insurance/Claim_Insurance/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "99"
+                  endingLineNumber = "99"
+                  offsetFromSymbolStart = "304">
+               </Location>
+               <Location
+                  uuid = "19E93B2E-308A-4D7B-8FEF-19C2AA5D5C92 - b5a3935847c9427a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Claim_Insurance.ContentView.classifyImage(__C.UIImage) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Claim_Insurance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gokul/Swift/Claim_Insurance/Claim_Insurance/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "444">
+               </Location>
+               <Location
+                  uuid = "19E93B2E-308A-4D7B-8FEF-19C2AA5D5C92 - b5a3935847c9427a"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Claim_Insurance.ContentView.classifyImage(__C.UIImage) -&gt; Swift.Optional&lt;Swift.String&gt;"
+                  moduleName = "Claim_Insurance"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/gokul/Swift/Claim_Insurance/Claim_Insurance/ContentView.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "96"
+                  endingLineNumber = "96"
+                  offsetFromSymbolStart = "448">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
