@@ -1,9 +1,4 @@
-//
-//  Extensions.swift
-//  Claim_Insurance
-//
-//  Created by Gokul B on 28/02/24.
-//
+
 
 import UIKit
 
